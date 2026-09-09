@@ -1,0 +1,17 @@
+{
+  "name": "genpark-verifiable-delay-function-vdf-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Verifiable Delay Function (VDF) Sequential Squaring & Rapid Proof Verification Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "cryptography",
+    "verifiable-delay-function",
+    "vdf",
+    "proof-of-delay"
+  ]
+}
